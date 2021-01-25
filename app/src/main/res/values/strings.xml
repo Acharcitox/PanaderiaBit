@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PanaderiaBit</string>
+    <string name="add_panificado">Agregar tipo de pan</string>
+    <string name="nombre_panificado">Ingrese producto</string>
+    <string name="guardar">Guardar</string>
+    <string name="no_guardado">No se guardó</string>
+</resources>
